@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5f8d43bd85f1f2133854381e"
+  },
+  "menuid": "M1",
+  "items": [
+    {
+      "_id": {
+        "$oid": "5f8d43bd85f1f2133854381f"
+      },
+      "course": "Starters",
+      "name": "Bread",
+      "price": 12,
+      "image": "1602653221445education.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d43bd85f1f21338543820"
+      },
+      "course": "Starters",
+      "name": "Soup",
+      "price": 22.3,
+      "image": "1602653221445education.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d43bd85f1f21338543821"
+      },
+      "course": "Main",
+      "name": "Pasta",
+      "price": 55.6,
+      "image": "1602653221445education.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d43bd85f1f21338543822"
+      },
+      "course": "Main",
+      "name": "Pizza",
+      "price": 45.56,
+      "image": "1602653221445education.jpg"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d6f4048e9ba1e80eb9155"
+  },
+  "menuid": "M2",
+  "items": [
+    {
+      "_id": {
+        "$oid": "5f8d6f4048e9ba1e80eb9156"
+      },
+      "course": "Starters",
+      "name": "Nachos",
+      "price": 12,
+      "image": "1603110268151nachos.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d6f4048e9ba1e80eb9157"
+      },
+      "course": "Starters",
+      "name": "Chips",
+      "price": 22.3,
+      "image": "1603110304281chips.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d6f4048e9ba1e80eb9158"
+      },
+      "course": "Main",
+      "name": "Burger",
+      "price": 55.6,
+      "image": "1603110224748burger.png"
+    },
+    {
+      "_id": {
+        "$oid": "5f8d6f4048e9ba1e80eb9159"
+      },
+      "course": "Main",
+      "name": "Taco",
+      "price": 45.56,
+      "image": "1603110335302taco.jpg"
+    }
+  ],
+  "__v": 0
+}]
