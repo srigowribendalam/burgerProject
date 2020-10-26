@@ -1,0 +1,15 @@
+@media all and (min-width: 359px) {
+    .Login {
+      padding: 40px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 300px;
+    }
+  }
+  .service{
+    height:40px;
+    width:320px;
+    border-radius: 4px;
+  }

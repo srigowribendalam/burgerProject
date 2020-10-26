@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+@media all and (min-width: 359px) {
+  .alignment{
+    width:490px;
+  }
+  .starters {
+    margin-left: -10px;
+    margin-top: -120px;
+  }
+  .button{
+    margin-left:315px;
+    margin-top: -20px;
+    width:80px;
+  }
+  .button1{
+    margin-left: 250px;
+    margin-top: -20px;
+    width:60px;
+  }
+  .margintop{
+    margin-top: -25px;
+  }
+  .card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(128, 124, 124, 0.8);
+  }
+  .centered{
+    margin-left: 120px;
+  }
+  
+}
+
+
+
